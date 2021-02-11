@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+  <dict>
+    <key>bananaPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less banana</string>
+        <key>other</key>
+        <string>%d less bananas</string>
+        <key>zero</key>
+        <string>no bananas</string>
+      </dict>
+    </dict>
+    <key>brainSavingRulesKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>one saving rule</string>
+        <key>other</key>
+        <string>%d saving rules</string>
+        <key>zero</key>
+        <string>no saving rules</string>
+      </dict>
+    </dict>
+    <key>carrierBagPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less carrier bag</string>
+        <key>other</key>
+        <string>%d less carrier bags</string>
+        <key>zero</key>
+        <string>no carrier bags</string>
+      </dict>
+    </dict>
+    <key>chocolateBarPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less chocolate bar</string>
+        <key>other</key>
+        <string>%d less chocolate bars</string>
+        <key>zero</key>
+        <string>no chocolate bars</string>
+      </dict>
+    </dict>
+    <key>coffeePluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less coffee</string>
+        <key>other</key>
+        <string>%d less coffees</string>
+        <key>zero</key>
+        <string>no coffees</string>
+      </dict>
+    </dict>
+    <key>daysLeftKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d day left</string>
+        <key>other</key>
+        <string>%d days left</string>
+        <key>zero</key>
+        <string>no days left</string>
+      </dict>
+    </dict>
+    <key>fancyNightOutPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less fancy night out</string>
+        <key>other</key>
+        <string>%d less fancy nights out</string>
+        <key>zero</key>
+        <string>no fancy nights out</string>
+      </dict>
+    </dict>
+    <key>fastFoodMealPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less fast food meal</string>
+        <key>other</key>
+        <string>%d less fast food meals</string>
+        <key>zero</key>
+        <string>no fast food meals</string>
+      </dict>
+    </dict>
+    <key>iceCreamTubPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less ice cream tub</string>
+        <key>other</key>
+        <string>%d less ice cream tubs</string>
+        <key>zero</key>
+        <string>no ice cream tubs</string>
+      </dict>
+    </dict>
+    <key>lunchtimeMealDealPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less lunchtime meal deal</string>
+        <key>other</key>
+        <string>%d less lunchtime meal deals</string>
+        <key>zero</key>
+        <string>no lunchtime meal deals</string>
+      </dict>
+    </dict>
+    <key>monthsPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d month</string>
+        <key>other</key>
+        <string>%d months</string>
+        <key>zero</key>
+        <string>no months</string>
+      </dict>
+    </dict>
+    <key>monthsSelectionKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Month</string>
+        <key>other</key>
+        <string>%d Months</string>
+        <key>zero</key>
+        <string>0 Months</string>
+      </dict>
+    </dict>
+    <key>newspaperPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less newspaper</string>
+        <key>other</key>
+        <string>%d less newspapers</string>
+        <key>zero</key>
+        <string>no newspapers</string>
+      </dict>
+    </dict>
+    <key>restaurantMealPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less restaurant meal</string>
+        <key>other</key>
+        <string>%d less restaurant meals</string>
+        <key>zero</key>
+        <string>no restaurant meals</string>
+      </dict>
+    </dict>
+    <key>softDrinkPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less soft drink</string>
+        <key>other</key>
+        <string>%d less soft drinks</string>
+        <key>zero</key>
+        <string>no soft drinks</string>
+      </dict>
+    </dict>
+    <key>takeawayPluralKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d less takeaway</string>
+        <key>other</key>
+        <string>%d less takeaways</string>
+        <key>zero</key>
+        <string>no takeaways</string>
+      </dict>
+    </dict>
+    <key>yearsSelectionKey</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@localized_format_key@</string>
+      <key>localized_format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Year</string>
+        <key>other</key>
+        <string>%d Years</string>
+        <key>zero</key>
+        <string>0 Years</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>
