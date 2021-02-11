@@ -1,0 +1,25 @@
+phrase:
+  access_token: ecdf2312b2249faf7179da557e165cf7719324381468fbbb00a1eaf88a471456
+  project_id: 5936a589606e4817d90d78bc89b4f155
+  file_format: strings
+
+  pull:
+    targets:
+    - file: Plum/Supporting Files/<locale_code>.lproj/Localizable.strings
+      params:
+        file_format: "strings"
+        format_options:
+          convert_placeholder: true
+    - file: Plum/Supporting Files/<locale_code>.lproj/Localizable.stringsdict
+      params:
+        file_format: "stringsdict"
+  push:
+    sources:
+    - file: Plum/Supporting Files/en.lproj/Localizable.strings
+      params:
+        locale_id : 4ff83eaf7ec96314e9a7aba5eaa3841e
+    - file: Plum/Supporting Files/en.lproj/Localizable.stringsdict
+      params:
+        locale_id : 4ff83eaf7ec96314e9a7aba5eaa3841e
+        file_format: "stringsdict"
+ 
